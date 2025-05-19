@@ -60,16 +60,10 @@ CMYTabbedPaneDemo5d: https://github.com/sanjana56789/Java_assignment/blob/main/O
 
 FactorialCalculatorDemo: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/6a.jpg
 
-Cookieservlet6b:https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/6b.1.jpg
-
-               : https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/6b.2.jpg
+Cookieservlet6b:https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/6b.1.jpg , https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/6b.2.jpg
 
 PrimeCheckApp6c: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/6c.jpg
 
-Session Management7a: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/7a.1.jpg
-                      : https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/7a.2.jpg
-                      : https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/7a.3.jpg
+Session Management7a: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/7a.1.jpg, https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/7a.2.jpg, https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/7a.3.jpg
                     
-CookieManagement7b: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/7b.1.jpg
-                    : https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/7b.2.jpg
-                    : https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/7b.3.jpg
+CookieManagement7b: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/7b.1.jpg, https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/7b.2.jpg, https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/7b.3.jpg
