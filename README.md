@@ -60,7 +60,9 @@ CMYTabbedPaneDemo5d: https://github.com/sanjana56789/Java_assignment/blob/main/O
 
 FactorialCalculatorDemo: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/6a.jpg
 
-Cookieservlet6b: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/6b.2.jpg
+Cookieservlet6b:https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/6b.1.jpg
+
+                https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/6b.2.jpg
 
 PrimeCheckApp6c: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/6c.jpg
 
