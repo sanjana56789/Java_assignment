@@ -1,0 +1,41 @@
+# Eclipse-specific
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.localhistory/
+.loadpath
+
+# Build output
+target/
+build/
+
+# Java-specific
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Maven
+target/
+
+# Eclipse project settings (optional - include only if needed)
+.settings/
+
+# Ignore IDE-specific files unless you want to share config
+*.iml
+.idea/
