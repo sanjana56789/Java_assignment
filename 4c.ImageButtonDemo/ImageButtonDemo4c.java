@@ -1,3 +1,7 @@
+// 4c. Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour Glass is pressed” depending upon the Jbutton with image either Digital Clock or Hour Glass is
+// pressed by implementing the event handling mechanism with addActionListener( ).
+
+
 package swingmessage4abc;
 
 import javax.swing.*;
@@ -5,6 +9,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 public class ImageButtonDemo4c extends JFrame implements ActionListener {
+
     private JButton digitalClockButton;
     private JButton hourGlassButton;
     private JLabel messageLabel;
