@@ -36,11 +36,13 @@ StringOperationsDemo: https://github.com/sanjana56789/Java_assignment/blob/main/
 
 PerformanceTest: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/2b.jpg
 
+
 3a.StringOperation
 
 StringOperationsa: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/3a.jpg
 
-3b.
+
+3b.StringExercise
 
 NullOrEmptyCheck3b1: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/3b.1.jpg
 
