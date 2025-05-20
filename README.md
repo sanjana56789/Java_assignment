@@ -2,15 +2,15 @@
 
 1b.ArrayList:
 
-        ColorSearch1: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1b.1.jpg
+ColorSearch1: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1b.1.jpg
 
-        ColorRemove2: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1b.2.jpg
+ColorRemove2: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1b.2.jpg
 
-        ColorSort3: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1b.3.jpg
+ColorSort3: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1b.3.jpg
 
-        ColorSubList4: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1b.4.jpg
+ColorSubList4: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1b.4.jpg
 
-        ColorDeleteNth5: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1b.5.jpg
+ColorDeleteNth5: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1b.5.jpg
 
 1c.LinkedList
 
