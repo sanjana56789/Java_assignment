@@ -1,5 +1,6 @@
 1a.ListOperationDemo: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1a.jpg
 
+
 1b.ArrayList:
 
 ColorSearch1: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1b.1.jpg
@@ -12,17 +13,18 @@ ColorSubList4: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs
 
 ColorDeleteNth5: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1b.5.jpg
 
+
 1c.LinkedList
 
-        LinkedListIteratorExample1: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1c.1.jpg
+LinkedListIteratorExample1: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1c.1.jpg
 
-        LinkedListReverse2: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1c.2.jpg
+LinkedListReverse2: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1c.2.jpg
 
-        LinkedListOfferLast3: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1c.3.jpg
+LinkedListOfferLast3: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1c.3.jpg
         
-        LinkedListGetExample4: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1c.4.jpg
+LinkedListGetExample4: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1c.4.jpg
         
-        LinkedListSwapExample5: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1c.5.jpg
+LinkedListSwapExample5: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/1c.5.jpg
 
 StringOperationsDemo: https://github.com/sanjana56789/Java_assignment/blob/main/Outputs/2a.jpg
 
