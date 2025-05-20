@@ -1,1 +1,5 @@
-
+[]->(https://github.com/sanjana56789/Java_assignment/blob/main/1b.ArrayList/1b.1.jpg)
+[]->(https://github.com/sanjana56789/Java_assignment/blob/main/1b.ArrayList/1b.2.jpg)
+[]->(https://github.com/sanjana56789/Java_assignment/blob/main/1b.ArrayList/1b.3.jpg)
+[]->(https://github.com/sanjana56789/Java_assignment/blob/main/1b.ArrayList/1b.4.jpg)
+[]->(https://github.com/sanjana56789/Java_assignment/blob/main/1b.ArrayList/1b.5.jpg)
