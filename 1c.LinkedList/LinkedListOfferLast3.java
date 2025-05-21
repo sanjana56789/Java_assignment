@@ -1,4 +1,4 @@
-// 1c.3 Write a Java Program for Verifying if a string contains only numeric characters using user defined function isNumeric()
+// 1c.3 Write a Java program to insert the specified element at the end of a linked list.( using l_listobj.offerLast("Pink"))
 
 package linkedlist;
 
