@@ -1,4 +1,4 @@
-// 3c.7 Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2))
+// 3c.7 Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user defined function truncate()
 
 package stringhandlingfunc3abc;
 
