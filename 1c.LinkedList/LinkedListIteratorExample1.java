@@ -1,4 +1,4 @@
-// 1c.1 Write a Java Program for Capitalizing the first letter of each word. using user defined function capitalizeWords()
+// 1c.1 Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
 
 package linkedlist;
 
