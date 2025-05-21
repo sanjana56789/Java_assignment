@@ -1,4 +1,4 @@
-// 3b.5 Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2))
+// 3b.5 Write a Java Program for Eliminating all whitespace characters from a string using user defined function removeWhitespace()
 
 package stringhandlingfunc3abc;
 
