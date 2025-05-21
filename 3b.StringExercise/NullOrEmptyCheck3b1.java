@@ -1,4 +1,4 @@
-// 3b.1 Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2))
+// 3b.1 Write a Java Program for Checking if a given string is null or contains only whitespace using user defined function isNullOrEmpty().
 
 package stringhandlingfunc3abc;
 
