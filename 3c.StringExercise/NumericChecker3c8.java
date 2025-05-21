@@ -1,4 +1,5 @@
-// 3c.8 Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2))
+// 3c.8 Write a Java Program for Verifying if a string contains only numeric characters using user defined function isNumeric()
+
 
 package stringhandlingfunc3abc;
 
