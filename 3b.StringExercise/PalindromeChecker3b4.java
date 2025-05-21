@@ -1,4 +1,4 @@
-// 3b.4 Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2))
+// 3b.4 Write a Java Program for Checking if a string reads the same backward as forward (ignoring caseand punctuation) using user defined function isPalindrome():
 
 package stringhandlingfunc3abc;
 
