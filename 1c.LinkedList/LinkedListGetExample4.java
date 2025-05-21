@@ -1,4 +1,4 @@
-// 1c.4 Write a Java Program for Creating a random string of a specified length using user defined function generateRandomString()
+// 1c.4 Write a Java program to display elements and their positions in a linked list ( using l_listobj.get(p) )
 
 package linkedlist;
 
