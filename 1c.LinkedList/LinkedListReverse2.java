@@ -1,4 +1,4 @@
-// 1c.2 Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user defined function truncate()
+// 1c.2 Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())ser defined function truncate()
 
 package linkedlist;
 
