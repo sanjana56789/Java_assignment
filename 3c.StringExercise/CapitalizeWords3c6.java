@@ -1,4 +1,4 @@
-// 3c.6 Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2))
+// 3c.6 Write a Java Program for Capitalizing the first letter of each word. using user defined function capitalizeWords()
 
 package stringhandlingfunc3abc;
 
